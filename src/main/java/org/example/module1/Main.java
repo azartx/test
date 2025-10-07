@@ -1,4 +1,4 @@
-package org.example;
+package org.example.module1;
 
 // это класс Мэйн
 public class Main {
